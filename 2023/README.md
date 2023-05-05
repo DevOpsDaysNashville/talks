@@ -13,7 +13,7 @@
 - [Rob Richardson - Getting started with Jupyter](https://github.com/robrich/jupyter_getting_started)
 - [Dave McAllister - Adding OpenTelemetry to Modern Adaptive Apps](https://drive.google.com/file/d/1s0a1hhNxUHJ6M4FuRMgqgYRXlfr_fm3Y/view?usp=sharing)
 - [Dwayne McDaniel - So My Credentials have been Leaked...Now what?](https://docs.google.com/presentation/d/1qhoDCqccQTtD2XmvpyWJ7tE6MxKsTyza/edit?usp=sharing&ouid=107205581630739590780&rtpof=true&sd=true)
-
+- [Richard Lewis - LMAO Helps During Outages](https://gogorichie-my.sharepoint.com/:p:/p/richard/EZ4fux1gs2NDktBm1rb5fLQBomldfggfklLXvr8FrZ6w9Q?rtime=DO9eVYZN20g)
 ## Ignite
 
 - [Margaret Valtierra - Enabling a Self-Service Public Cloud Culture at Morningstar](https://github.com/margaretvaltie/Speaking/blob/master/Nashville_DevOpsDays_2023.pdf)
